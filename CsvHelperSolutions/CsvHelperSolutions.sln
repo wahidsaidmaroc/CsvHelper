@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvHelperImport", "CsvHelperImport\CsvHelperImport.csproj", "{C28D8D38-C977-4F8C-85BE-D152BC6A3715}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvHelperDynamicRecords", "CsvHelperDynamicRecords\CsvHelperDynamicRecords.csproj", "{699C376A-BBF6-421E-BC95-D2A20FE521B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvHelperDataReader", "CsvHelperDataReader\CsvHelperDataReader.csproj", "{4C7AA6C2-CE7E-4E09-B443-3E76FD8B5B28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C28D8D38-C977-4F8C-85BE-D152BC6A3715}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C28D8D38-C977-4F8C-85BE-D152BC6A3715}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C28D8D38-C977-4F8C-85BE-D152BC6A3715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699C376A-BBF6-421E-BC95-D2A20FE521B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699C376A-BBF6-421E-BC95-D2A20FE521B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699C376A-BBF6-421E-BC95-D2A20FE521B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699C376A-BBF6-421E-BC95-D2A20FE521B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7AA6C2-CE7E-4E09-B443-3E76FD8B5B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7AA6C2-CE7E-4E09-B443-3E76FD8B5B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7AA6C2-CE7E-4E09-B443-3E76FD8B5B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7AA6C2-CE7E-4E09-B443-3E76FD8B5B28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
